@@ -1,7 +1,7 @@
-Привет, я Александр Безумов / Hi there I'm Alexander Bezumov
+Привет, я Александр Безумов  
+Hi there I'm Alexander Bezumov
 
-I'm a Data Analyst
-
+I'm a Data Analyst  
 As I began to work with analytics and data, I developed an interest in data analysis and programming.
 
 Анализ данных, MS PowerPoint, SQL, Работа с большим объемом информации, Python, Tableau, Подготовка презентаций, Базы данных, Аналитические способности
